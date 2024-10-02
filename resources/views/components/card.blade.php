@@ -18,7 +18,7 @@
             <!-- Animasi ditambahkan di sini -->
             <img src="{{ asset('images/non_akademik.jpg') }}" alt="" class="w-full h-72 object-cover mb-4">
             <h2 class="text-xl font-semibold text-gray-700 mb-2">Beasiswa Non Akademik</h2>
-            <a onclick="openModal('non_akademik')" class="text-blue-500 hover:underline cursor-pointer">Tampilkan
+            <a onclick="openModal('non_akademik')" class="text-blue-500 hover:underline cursor-pointer">Lihat
                 Selengkapnya</a>
         </div>
 
@@ -28,7 +28,7 @@
             <!-- Animasi ditambahkan di sini -->
             <img src="{{ asset('images/pelatihan.jpg') }}" alt="" class="w-full h-72 object-cover mb-4">
             <h2 class="text-xl font-semibold text-gray-700 mb-2">Beasiswa Pelatihan</h2>
-            <a onclick="openModal('pelatihan')" class="text-blue-500 hover:underline cursor-pointer">Tampilkan
+            <a onclick="openModal('pelatihan')" class="text-blue-500 hover:underline cursor-pointer">Lihat
                 Selengkapnya</a>
         </div>
     </div>
