@@ -4,7 +4,7 @@
 
 Repository ini berisi sebuah website yang dibangun menggunakan **Laravel** serta **Tailwind CSS** sebagai framework CSS dan **Chart.js** untuk menampilkan grafik.
 
-Proyek ini dibuat dan dikembangkan oleh Rafi Muhammad Fikri pada tahun 2024.
+Proyek ini dibuat dan dikembangkan oleh Rafi Muhammad Fikri pada kamis, 3 Oktober 2024.
 
 ## 🎨 Tampilan Desain:
 
